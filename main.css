@@ -1,0 +1,12 @@
+button {
+  cursor: pointer;
+}
+
+.success {
+  background-color: #28A745;
+  color: white;
+}
+
+table {
+  margin-top: 10px;
+}
